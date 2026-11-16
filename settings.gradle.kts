@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android-firebase"
+rootProject.name = "android_firebase"
 include(":app")
